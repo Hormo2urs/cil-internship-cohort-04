@@ -51,10 +51,16 @@ This will be a page for doctors to monitor the health of their patient remotely 
 ### Medical Q&A
 This will be a page for medical questions and all the answers will be published on the page. The answers are written by Verified medical doctors, therapists and health experts. The Content will be moderated by the Healthline medical review team before publication.
 
+## Budget
+Average cost of starting a  telehealth platform is $13,730 
+Minimum cost for a consultation is $10 depending on the service needed.
+
+Startup Capital for Healthline is $20,000
+Lowest price for Healthline services is $10 but depending on the service needed.
+
+
 ### Target Users  for the Product
 According to research, Healthline is predominantly a B2B product. Hence, the users will be mainly working adults. Therefore a persona is crafted out to help guide in the design solution.
-
-
 
 ## User persona
 Age: Between 25-50
@@ -79,10 +85,10 @@ History of Startup in the market
 Top competitors in the Market
 Barriers of entry the market
 
-Target Audience/Users
+## Target Audience/Users
 According to research, Healthline is predominantly a B2B product. Hence, the users will be mainly working adults. Therefore a persona is crafted out to help guide in the design solution.
 
-User persona
+### User persona
 Age: Between 25-50
 Occupation: Any white collar job
 Income: Median to High
